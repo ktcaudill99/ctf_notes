@@ -1,0 +1,3 @@
+If we wanted to output the text "HackersTeachingHackers", what would our command be??
+
+HTH{echo HackersTeachingHackers}

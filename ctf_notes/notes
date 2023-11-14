@@ -1,0 +1,92 @@
+RUNNING GHIDRA
+
+cd /home/ghidra/ghidra_10.1.2_PUBLIC/
+./ghidraRun
+
+-------------------------------------------------------
+
+DECOMPILE APK via APKTOOL
+
+https://medium.com/@sandeepcirusanagunla/decompile-and-recompile-an-android-apk-using-apktool-3d84c2055a82
+
+
+
+apktool d -r -s APPLICATIONNAME.apk
+or
+apktool d APPLICATIONNAME.apk
+
+--------------------------------------------------------
+
+android ide 
+/android-studio/bin$ ./studio.sh
+
+----------------------------------------------------
+
+bota GIT 
+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
+
+--------------------------------
+
+GIT https://www.geeksforgeeks.org/how-to-install-configure-and-use-git-on-ubuntu/
+clone (once)
+git pull (on main branch)
+1) git switch -c bname
+1a) git status
+2) make changes
+2a) git status (how does git stand at this point in time
+3) git add (stage)
+4) git commit -m "concise and descriptive"
+go to 1a
+5) git push -u origin bname
+6) go to github repo - initiate a PR
+----------------------------------------------
+vmwear 
+vmware-cd to dowanloads
+vmware-view
+
+---------------------------------------------
+
+1. Start the bluetooth daemon
+
+Go to your terminal and type :
+
+sudo /etc/init.d/bluetooth start
+
+2. Reinstall packages
+
+If this doesn't work, go to your terminal and type :
+
+sudo apt-get purge blueman bluez-utils bluez bluetooth
+sudo apt-get install blueman bluez-utils bluez bluetooth
+
+Then run :
+
+sudo /etc/init.d/bluetooth start
+
+
+---------------------------------
+
+katiework@katiework-HP-ZBook-15-G5:~/Downloads/pybluez-master$ pip install -e .[ble]
+Obtaining file:///home/katiework/Downloads/pybluez-master
+    ERROR: Command errored out with exit status 1:
+     command: /usr/bin/python3 -c 'import sys, setuptools, tokenize; sys.argv[0] = '"'"'/home/katiework/Downloads/pybluez-master/setup.py'"'"'; __file__='"'"'/home/katiework/Downloads/pybluez-master/setup.py'"'"';f=getattr(tokenize, '"'"'open'"'"', open)(__file__);code=f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' egg_info
+         cwd: /home/katiework/Downloads/pybluez-master/
+    Complete output (2 lines):
+    running egg_info
+    error: [Errno 13] Permission denied
+    ----------------------------------------
+ERROR: Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output.
+
+------------------------------------------------------------------
+
+bluetoothctl
+
+BlueZ https://thematrix.dev/compile-and-install-bluez-on-ubuntu-21-10/
+
+----------------------------------------
+
+
+
+
+
+

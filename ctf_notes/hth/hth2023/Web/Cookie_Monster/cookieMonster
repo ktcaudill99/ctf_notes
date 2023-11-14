@@ -1,0 +1,5 @@
+I have this website that adds a random number of cookies to your cookie jar. If you fill up the jar, you get the flag. But you are impatient, see if you can get all the cookies you need really quick.
+						 							 								 								 									https://cookiemonster1.ctf.digital/ 		
+Hint :You really dont want to click that button millions of times... How else can you get cookies
+Click the button once to get some cookies, modify the cookie count using developer tools to a large number and click “get more cookies”, the flag is given when the threshold is exceeded.
+HTH{OmNomnomnom1887987}	

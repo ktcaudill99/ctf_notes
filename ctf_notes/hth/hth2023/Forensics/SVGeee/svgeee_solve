@@ -1,0 +1,3 @@
+Open the svg file in a text editor, change the fill to #000000 then md5sum the file, use the hash to unlock the 7z file and sort by modified date. Take the hex characters from the metadata of the most recently edited SVG file and convert the hex to ascii characters, revealing the flag.
+
+HTH{SVGsAreJustText}

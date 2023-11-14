@@ -1,0 +1,9 @@
+Go to https://www.linkedin.com/posts/harperjohn_i-am-super-stoked-to-have-ed-skoudis-as-a-activity-7103223406459817984--lsA. Click the https://lnkd.in/gMJZ_nVe. Download EdSkoudis.jpg and run strings. base64 decode the last string. HTH flag for eml_me is the name of the company that Ed worked for from 2000-2002. Example: HTH{Company Name} HTH{Predictive Systems} 
+
+OSINT Eml_me:
+Go to https://www.linkedin.com/posts/harperjohn_i-am-super-stoked-to-have-ed-skoudis-as-a-activity-7103223406459817984--lsA.
+Click the https://lnkd.in/gMJZ_nVe.
+Download EdSkoudis.jpg and run strings.
+base64 decode the last string.
+HTH flag for eml_me is the name of the company that Ed worked for from 2000-2002. Example: HTH{Company Name}
+HTH{Predictive Systems}
